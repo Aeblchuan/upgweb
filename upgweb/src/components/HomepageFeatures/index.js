@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'UPGO-G1工作室',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        UPGO-G1主要负责兴趣电商直播及短视频项目基础运营、策划、付费引流业务。
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'UPGO-G2工作室',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        UPGO-G2工作室主要负责Open AI和Video Engineering渲染远程支持及其他信息技术开发工作
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'PUPGO-G3工作室',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        UPGO-G2工作室负责商务合作洽谈及私域矩阵渠道维护工作
       </>
     ),
   },
